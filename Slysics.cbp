@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Slysics" />
+		<Option platforms="Unix;" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Slysics" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Slysics" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="SDL" />
+			<Add library="SDLmain" />
+			<Add library="SDL_gfx" />
+			<Add library="SDL_image" />
+		</Linker>
+		<Unit filename="src\Core\GUI\Widgets\Keyboard.h" />
+		<Unit filename="src\Core\GUI\Widgets\RadioButton.cpp" />
+		<Unit filename="src\Core\GUI\Widgets\RadioButton.h" />
+		<Unit filename="src\Core\Physics\PhysicsCore.cpp" />
+		<Unit filename="src\Core\Physics\PhysicsCore.h" />
+		<Unit filename="src\Core\Rendering\ImageObject.cpp" />
+		<Unit filename="src\Core\Rendering\ImageObject.h" />
+		<Unit filename="src\Core\Rendering\RenderObject.h" />
+		<Unit filename="src\Core\Rendering\RenderingCore.cpp" />
+		<Unit filename="src\Core\Rendering\RenderingCore.h" />
+		<Unit filename="src\Core\Rendering\TTFFont.cpp" />
+		<Unit filename="src\Core\Rendering\TTFFont.h" />
+		<Unit filename="src\Core\Rendering\TextLabel.cpp" />
+		<Unit filename="src\Core\Rendering\TextLabel.h" />
+		<Unit filename="src\Core\Rendering\UpdateRectManager.cpp" />
+		<Unit filename="src\Core\Rendering\UpdateRectManager.h" />
+		<Unit filename="src\Core\SlysicsCore.cpp" />
+		<Unit filename="src\Core\SlysicsCore.h" />
+		<Unit filename="src\Core\SlysicsCoreRender.cpp" />
+		<Unit filename="src\Core\System\ConfigurationCore.cpp" />
+		<Unit filename="src\Core\System\ConfigurationCore.h" />
+		<Unit filename="src\Core\System\MapFileLoader.h" />
+		<Unit filename="src\Core\System\TimerCore.cpp" />
+		<Unit filename="src\Core\System\TimerCore.h" />
+		<Unit filename="src\Game\ConfigurationMenu.cpp" />
+		<Unit filename="src\Game\ConfigurationMenu.h" />
+		<Unit filename="src\Game\FlagManager.cpp" />
+		<Unit filename="src\Game\FlagManager.h" />
+		<Unit filename="src\Game\GameCanvas.cpp" />
+		<Unit filename="src\Game\GameCanvas.h" />
+		<Unit filename="src\Game\Line.cpp" />
+		<Unit filename="src\Game\Line.h" />
+		<Unit filename="src\Game\LoadMenu.cpp" />
+		<Unit filename="src\Game\LoadMenu.h" />
+		<Unit filename="src\Game\Portal.cpp" />
+		<Unit filename="src\Game\Portal.h" />
+		<Unit filename="src\Game\Sled.cpp" />
+		<Unit filename="src\Game\Sled.h" />
+		<Unit filename="src\Game\Sledder.cpp" />
+		<Unit filename="src\Game\Sledder.h" />
+		<Unit filename="src\Slysics.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

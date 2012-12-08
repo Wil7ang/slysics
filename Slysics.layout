@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\Core\GUI\Widgets\Keyboard.h" open="0" top="0" tabpos="4">
+		<Cursor position="345" topLine="10" />
+	</File>
+	<File name="src\Core\GUI\Widgets\RadioButton.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="28" />
+	</File>
+	<File name="src\Core\Physics\PhysicsCore.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2370" topLine="0" />
+	</File>
+	<File name="src\Core\Physics\PhysicsCore.h" open="0" top="0" tabpos="2">
+		<Cursor position="822" topLine="18" />
+	</File>
+	<File name="src\Core\Rendering\ImageObject.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1513" topLine="72" />
+	</File>
+	<File name="src\Core\Rendering\ImageObject.h" open="0" top="0" tabpos="0">
+		<Cursor position="706" topLine="9" />
+	</File>
+	<File name="src\Core\Rendering\RenderObject.h" open="1" top="0" tabpos="8">
+		<Cursor position="112" topLine="10" />
+	</File>
+	<File name="src\Core\Rendering\RenderingCore.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="4055" topLine="138" />
+	</File>
+	<File name="src\Core\Rendering\RenderingCore.h" open="1" top="0" tabpos="11">
+		<Cursor position="652" topLine="0" />
+	</File>
+	<File name="src\Core\Rendering\TTFFont.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="109" topLine="0" />
+	</File>
+	<File name="src\Core\Rendering\TTFFont.h" open="0" top="0" tabpos="0">
+		<Cursor position="381" topLine="2" />
+	</File>
+	<File name="src\Core\Rendering\TextLabel.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="8" />
+	</File>
+	<File name="src\Core\Rendering\UpdateRectManager.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="413" topLine="50" />
+	</File>
+	<File name="src\Core\Rendering\UpdateRectManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="117" topLine="0" />
+	</File>
+	<File name="src\Core\SlysicsCore.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="32571" topLine="0" />
+	</File>
+	<File name="src\Core\SlysicsCore.h" open="1" top="0" tabpos="9">
+		<Cursor position="1127" topLine="130" />
+	</File>
+	<File name="src\Core\SlysicsCoreRender.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="32613" topLine="587" />
+	</File>
+	<File name="src\Core\System\ConfigurationCore.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2280" topLine="13" />
+	</File>
+	<File name="src\Core\System\ConfigurationCore.h" open="0" top="0" tabpos="0">
+		<Cursor position="1294" topLine="19" />
+	</File>
+	<File name="src\Core\System\MapFileLoader.h" open="0" top="0" tabpos="0">
+		<Cursor position="110" topLine="0" />
+	</File>
+	<File name="src\Core\System\TimerCore.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="108" topLine="0" />
+	</File>
+	<File name="src\Core\System\TimerCore.h" open="0" top="0" tabpos="0">
+		<Cursor position="106" topLine="0" />
+	</File>
+	<File name="src\Game\ConfigurationMenu.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="755" topLine="9" />
+	</File>
+	<File name="src\Game\ConfigurationMenu.h" open="0" top="0" tabpos="4">
+		<Cursor position="1510" topLine="44" />
+	</File>
+	<File name="src\Game\FlagManager.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="607" topLine="16" />
+	</File>
+	<File name="src\Game\FlagManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="516" topLine="20" />
+	</File>
+	<File name="src\Game\GameCanvas.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="6482" topLine="180" />
+	</File>
+	<File name="src\Game\GameCanvas.h" open="0" top="0" tabpos="5">
+		<Cursor position="1773" topLine="0" />
+	</File>
+	<File name="src\Game\Line.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="14" topLine="0" />
+	</File>
+	<File name="src\Game\Line.h" open="0" top="0" tabpos="0">
+		<Cursor position="813" topLine="36" />
+	</File>
+	<File name="src\Game\LoadMenu.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="3232" topLine="122" />
+	</File>
+	<File name="src\Game\LoadMenu.h" open="0" top="0" tabpos="3">
+		<Cursor position="1246" topLine="22" />
+	</File>
+	<File name="src\Game\Portal.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1441" topLine="52" />
+	</File>
+	<File name="src\Game\Portal.h" open="1" top="0" tabpos="6">
+		<Cursor position="748" topLine="0" />
+	</File>
+	<File name="src\Game\Sled.cpp" open="1" top="1" tabpos="13">
+		<Cursor position="518" topLine="61" />
+	</File>
+	<File name="src\Game\Sled.h" open="1" top="0" tabpos="12">
+		<Cursor position="789" topLine="31" />
+	</File>
+	<File name="src\Game\Sledder.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2223" topLine="0" />
+	</File>
+	<File name="src\Game\Sledder.h" open="1" top="0" tabpos="3">
+		<Cursor position="1480" topLine="0" />
+	</File>
+	<File name="src\Slysics.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="539" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
